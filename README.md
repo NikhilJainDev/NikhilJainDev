@@ -1,4 +1,4 @@
-![logo](https://github.com/NikhilJainDev/NikhilJainDev-/blob/main/github.jpeg)
+![logo](https://github.com/NikhilJainDev/NikhilJainDev/blob/main/github.jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Nikhil Jain</h1>
 <h3 align="center">A Passionate Software Engineering Student from India</h3>
 
